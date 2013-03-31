@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MapsMinusExt</string>
+    <string name="app_name">Maps (-) Ext</string>
+<string name="menu_update_map">Update map</string>
+<string name="menu_save_map">Cache area</string>
+<string name="menu_my_location">My location</string>
+<string name="menu_preferences">Preferences</string>
+</resources>
